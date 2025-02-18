@@ -115,12 +115,12 @@ const CONFIG = {
     // },
   ],
   certifications: [
-    {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
-    },
+    // {
+    //   name: 'Lorem ipsum',
+    //   body: 'Lorem ipsum dolor sit amet',
+    //   year: 'March 2022',
+    //   link: 'https://example.com',
+    // },
   ],
   educations: [
     {
@@ -129,12 +129,12 @@ const CONFIG = {
       from: '2021',
       to: '2025',
     },
-    {
-      institution: 'St. Joseph Sr. Sec. School',
-      degree: 'CBSE Sr. Sec.',
-      from: '2019',
-      to: '2021',
-    },
+    // {
+    //   institution: 'St. Joseph Sr. Sec. School',
+    //   degree: 'CBSE Sr. Sec.',
+    //   from: '2019',
+    //   to: '2021',
+    // },
   ],
   publications: [
     // {
